@@ -1,0 +1,7 @@
+npm install vite
+npm install react-router-dom
+
+use createBrowserRouter from reactRouter.com an use their themplate for creating routes
+
+create Dasshboard.jsx :
+use this file as a route 
