@@ -31,7 +31,7 @@ const Intro = () => {
           <UserPlusIcon width={20} />
         </button>
       </Form>
-      <img src={illustration} alt="peron with money" width={600} />
+      <img src={illustration} alt="person with money" width={600} />
     </div>
   );
 };
